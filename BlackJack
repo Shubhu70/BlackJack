@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    
+</head>
+ <body style="background-color:black;">
+    
+     
+     <marquee><h1 id="title"><font color=" #00ff00">" BlackJack Game " </h1></marquee>
+    <h3><font color="skyblue">By Barange Shubham</h3>
+    <p id="text-area">Welcome to Blackjack!</p>
+    <button id="new-game-button">New Game</button>
+    <button id="hit-button">Hit </button>
+    <button id="stay-button">Stay </button>
+
+    <script src="BlackJackJs.js"></script>
+
+</body>
+
+</html>
